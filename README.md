@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning Node.js,C++, JAVA
 - 📫 How to reach me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chlrhhan@gmail.com)](mailto:chlrhhan@gmail.com) 
-
-<a href="https://velog.io/@chlrhhan"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=black&link=https://velog.io/@chlrhhan"/></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chlrhhan@gmail.com)](mailto:chlrhhan@gmail.com) <a href="https://velog.io/@chlrhhan"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=black&link=https://velog.io/@chlrhhan"/></a>
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-chl&layout=compact&theme=Dark&langs_count=2)](https://github.com/anuraghazra/github-readme-stats) -->
