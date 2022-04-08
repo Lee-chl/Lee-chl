@@ -1,5 +1,5 @@
 - # 👋  Hi, I’m @Lee-chl Lee Yeji
-- 👀 I’m interested in JAVA, SpringBoot, Node.js, Game, C++, Unity
+- 👀 I’m interested in JAVA, SpringBoot, Node.js, Game, C++, Unity , Python
 - 🌱 I’m currently learning Node.js,C++
 - 📫 How to reach me chlrhhan@gmail.com
 
