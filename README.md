@@ -15,7 +15,7 @@
  <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lee-chl)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-[![visit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-chl&count_bg=%2340ABC2&title_bg=%23726F6F&icon=postwoman.svg&icon_color=%2357976A&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![visit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-chl&count_bg=%2344C83D&title_bg=%23726F6F&icon=postwoman.svg&icon_color=%2357976A&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## STACK
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> &nbsp; <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
