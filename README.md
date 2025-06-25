@@ -4,7 +4,7 @@
 - 👀 &nbsp; I’m interested in JAVA, SpringBoot, Node.js, Game, C++, Unity , Python
 
 
-- 🌱&nbsp; I’m currently learning Node.js, C++, JAVA
+- 🌱&nbsp; I’m currently learning Node.js, python, JAVA
 
 
 - 📫 &nbsp; How to reach me &nbsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chlrhhan@gmail.com)](mailto:chlrhhan@gmail.com) &nbsp;<a href="https://velog.io/@chlrhhan"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@chlrhhan"/></a>
