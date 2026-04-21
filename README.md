@@ -1,10 +1,10 @@
 - # 👋 &nbsp; Hi, I’m @Lee-chl Lee Yeji
 
 
-- 👀 &nbsp; I’m interested in JAVA, SpringBoot, JavaScript,TypeScript, React.js, Unity , Python
+- 👀 &nbsp; I’m interested in JAVA, SpringBoot, JavaScript,TypeScript, React.js, AI
 
 
-- 🌱&nbsp; I’m currently learning Node.js, React.js , TypeScript ,AI 
+- 🌱&nbsp; I’m currently learning Node.js, React , TypeScript ,AI 
 
 
 - 📫 &nbsp; How to reach me &nbsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chlrhhan@gmail.com)](mailto:chlrhhan@gmail.com) &nbsp;<a href="https://velog.io/@chlrhhan"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@chlrhhan"/></a> &nbsp; <a href="https://www.linkedin.com/in/yeji-l-19b668254?trk=contact-info"><img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://www.linkedin.com/in/yeji-l-19b668254?trk=contact-info"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yeji-l-19b668254?trk=contact-info" /> </a>
