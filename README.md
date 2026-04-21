@@ -1,7 +1,7 @@
 - # 👋 &nbsp; Hi, I’m @Lee-chl Lee Yeji
 
 
-- 👀 &nbsp; I’m interested in JAVA, SpringBoot, Node.js, React.js, Unity , Python
+- 👀 &nbsp; I’m interested in JAVA, SpringBoot, JavaScript,TypeScript, React.js, Unity , Python
 
 
 - 🌱&nbsp; I’m currently learning Node.js, React.js , TypeScript ,AI 
